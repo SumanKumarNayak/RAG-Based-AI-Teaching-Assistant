@@ -3,3 +3,5 @@ audios/
 output.json
 unused/
 *.joblib
+prompt.txt
+response.txt
