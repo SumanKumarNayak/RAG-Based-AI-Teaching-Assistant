@@ -2,3 +2,4 @@ videos/
 audios/
 output.json
 unused/
+*.joblib
